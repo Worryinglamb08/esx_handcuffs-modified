@@ -8,7 +8,7 @@ I maked it that way it adds automatically the items to shops but you can modify 
 INSTALLATION
 1. Download the file
 2. Drag the file to [esx] folder
-3. After that add start esx_handcuffs to your server.cfg
+3. After that add ```start esx_handcuffs``` to your server.cfg
 4. Import the sql to your database
 5. Restart your server and have fun
 6. Prices are configurable from `shops` in your database
